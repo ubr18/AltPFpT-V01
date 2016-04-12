@@ -1,0 +1,50 @@
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\PortFolioFPA.dll
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\PortFolioFPA.pdb
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\Antlr3.Runtime.dll
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\EntityFramework.dll
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\Newtonsoft.Json.dll
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\System.Web.Mvc.dll
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\System.Web.Optimization.dll
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\System.Web.Providers.dll
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\System.Web.Razor.dll
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\System.Web.WebPages.Deployment.dll
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\System.Web.WebPages.dll
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\System.Web.WebPages.Razor.dll
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\WebGrease.dll
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\EntityFramework.xml
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\Newtonsoft.Json.xml
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\System.Web.Mvc.xml
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\System.Web.Razor.xml
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\System.Web.WebPages.xml
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\System.Web.WebPages.Deployment.xml
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\bin\System.Web.WebPages.Razor.xml
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\obj\Debug\PortFolioFPA.csprojResolveAssemblyReference.cache
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\obj\Debug\PortFolioFPA.dll
+c:\users\ulises.becerra\documents\visual studio 2012\Projects\PortFolioFPA\PortFolioFPA\obj\Debug\PortFolioFPA.pdb
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\PortFolioFPA.dll
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\PortFolioFPA.pdb
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\Antlr3.Runtime.dll
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\EntityFramework.dll
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\Newtonsoft.Json.dll
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\System.Web.Mvc.dll
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\System.Web.Optimization.dll
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\System.Web.Providers.dll
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\System.Web.Razor.dll
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\System.Web.WebPages.dll
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\System.Web.WebPages.Razor.dll
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\WebGrease.dll
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\EntityFramework.xml
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\Newtonsoft.Json.xml
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\System.Web.Mvc.xml
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\System.Web.Razor.xml
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\System.Web.WebPages.xml
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\AltPFpT-V01\PortFolioFPA\bin\System.Web.WebPages.Razor.xml
+C:\Projects\AltPFpT-V01\PortFolioFPA\obj\Debug\PortFolioFPA.csprojResolveAssemblyReference.cache
+C:\Projects\AltPFpT-V01\PortFolioFPA\obj\Debug\PortFolioFPA.dll
+C:\Projects\AltPFpT-V01\PortFolioFPA\obj\Debug\PortFolioFPA.pdb
